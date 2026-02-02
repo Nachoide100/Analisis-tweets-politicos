@@ -73,7 +73,7 @@ El informe final se diseñó siguiendo principios de **visualización modernos**
 > ⚠️ **Nota Importante:** Debido a las restricciones de tamaño de GitHub (>100MB), los archivos `tweets.json` (raw data) y `analisis_tweets.pbix` no están alojados directamente en este repositorio.
 
 * **Ver Dashboard:** Puedes ver una versión estática completa en el archivo `Report.pdf`.
-* **Ver Proyecto en Power BI:** Puedes acceder al informe interactivo en power BI clicando en el siguiente enlace -> ![Informe_interactivo](https://drive.google.com/file/d/1Cbcp8ux61yaOQlhuk6oYtT_i_5GikoIh/view?usp=drive_link)
+* **Ver Proyecto en Power BI:** Puedes acceder al informe interactivo en power BI clicando en el siguiente enlace -> https://drive.google.com/file/d/1Cbcp8ux61yaOQlhuk6oYtT_i_5GikoIh/view?usp=drive_link
 
 ---
 *Autor: José Ignacio Rubio -> https://www.linkedin.com/in/jos%C3%A9-ignacio-rubio-194471308/*
