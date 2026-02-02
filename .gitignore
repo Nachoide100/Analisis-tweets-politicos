@@ -1,0 +1,15 @@
+# --- Datos Masivos ---
+tweets.json
+*.json
+*.csv
+data/
+
+# --- Power BI Gigante ---
+# IMPORTANTE: Bloqueamos esto porque pesa 125MB
+*.pbix
+
+# --- Python ---
+__pycache__/
+*.ipynb_checkpoints/
+.env
+.venv
